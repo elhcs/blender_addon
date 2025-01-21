@@ -26,4 +26,4 @@ This addon integrates the Human 3Diffusion model into Blender for generating 3D 
 
 ## License
 
-Add license information here.
+
