@@ -26,6 +26,7 @@ This addon integrates the Human 3Diffusion model into Blender for generating 3D 
 1. Enable the addon in Blender.
 2. Use the UI to upload an image and generate a 3D avatar.
 
+##  Human 3Diffusion
 
 **Human 3Diffusion** is a novel framework for generating realistic 3D human avatars from a single RGB image. It combines 2D multi-view diffusion models with 3D Gaussian Splatting (3D-GS) to ensure photorealistic and geometrically consistent results.
 
