@@ -1,6 +1,7 @@
 # Human 3Diffusion Blender Addon
 
 This addon integrates the Human 3Diffusion model into Blender for generating 3D avatars from 2D images.
+
 ![Demo](https://elhoussainechahboun.com/ScreenRecording2025-02-07at11.42.32PM-ezgif.com-video-to-gif-converter.gif)
 
 ## Directory Structure
